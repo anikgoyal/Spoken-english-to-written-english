@@ -11,25 +11,38 @@ To add new rule(new punctuation marks)- please read "Q2 design document.pdf"
 Also:
 This code currently support three rules: Numbers, Tuples and general (like "C M","P M","D M","A M")
 
-## Usage
+## Usage 1
+
 Paragraph of spoken english:
+
 triple a
 
 Output:
+
 Spoken english: triple a
+
 Written English:  aaa
 
+## Usage 2
+
 Paragraph of spoken english:
+
 C M
 
 Output:
+
 Spoken english: C M
+
 Written English:  CM
 
+## Usage 3
 
 Paragraph of spoken english:
+
 two dollars
 
 Output:
+
 Spoken english: two dollars
+
 Written English:  $2
