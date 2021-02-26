@@ -5,7 +5,8 @@ This is a Python module which can that can convert a paragraph of spoken english
 For example, "two dollars" should be converted to $2. Abbreviations spoken as "C M" or "Triple A" should be written as "CM" and "AAA" respectively.
 
 #Note- as of now the code can handle punctuation marks like . and ,.
-#to add noew rule(new punctuation marks)- please read "Q2 design document.pdf"
+
+To add new rule(new punctuation marks)- please read "Q2 design document.pdf"
 
 Also:
 This code currently support three rules: Numbers, Tuples and general (like "C M","P M","D M","A M")
