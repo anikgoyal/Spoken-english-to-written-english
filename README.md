@@ -9,7 +9,7 @@ For example, "two dollars" should be converted to $2. Abbreviations spoken as "C
 To add new rule(new punctuation marks)- please read "Q2 design document.pdf"
 
 Also:
-This code currently support three rules: Numbers, Tuples and general (like "C M","P M","D M","A M")
+This code currently support three rules: Numbers(e.g. one, two), Tuples(e.g. double, triple) and general (like "C M","P M","D M","A M").
 
 ## Usage 1
 
