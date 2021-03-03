@@ -1,4 +1,4 @@
-# spoken english to written english
+# Spoken English to written English
 
 This is a Python module to convert a paragraph of spoken english to written english.
 
